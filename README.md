@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mvako
+- 👋 Hi, I’m @Mohanad Abdallah
 - 👀 I’m interested in developing my computer software and programming skills 
 - 🌱 I’m currently learning computer and data science
 - 📫 How to reach me :www.linkedin.com/in/mohanad-abdalla2001        or www.facebook.com/profile.php?id=100000400150169
